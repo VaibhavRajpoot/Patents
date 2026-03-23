@@ -1,24 +1,25 @@
-# Patents
-📄 Patent Repository
-📌 Description
+# 📄 Patent Repository
 
-This repository contains documentation and details of my patented projects. The aim of this repo is to showcase innovative solutions developed in the domains of smart waste management and healthcare technology.
+## 📌 Description
+This repository contains documentation and details of my patented projects. It highlights innovative solutions developed in the fields of smart waste management and healthcare technology.
 
-🚀 Projects Included
-1. SmartBin
+## 🚀 Projects Included
 
-An intelligent waste management system designed to improve waste segregation and disposal efficiency. The system focuses on automating the process and promoting cleaner and smarter environments.
+### 1. SmartBin
+An intelligent waste management system designed to improve waste segregation and disposal efficiency. The system focuses on automation to promote cleaner and smarter environments.
 
-2. Blood Circulatory Massager
+### 2. Blood Circulatory Massager
+A healthcare innovation aimed at improving blood circulation in the human body. It is designed to enhance patient comfort and support better overall health through mechanical stimulation.
 
-A healthcare-based innovation designed to enhance blood circulation in the human body. This project focuses on improving patient comfort and supporting better health through mechanical stimulation.
+## 🎯 Purpose of the Repository
+- Showcase patented innovations in a structured format  
+- Provide insights into the design and functionality of each project  
+- Serve as a reference for future research and development  
 
-🎯 Purpose of the Repository
-To present my patented innovations in a structured format
-To provide insights into the design and working of each project
-To serve as a reference for future development and research
+## 📁 Contents
+- Project descriptions  
+- Documentation files  
+- Supporting resources (if applicable)  
 
-📁 Contents
-Project descriptions
-Supporting documents
-Related resources (if applicable)
+## 📬 Contact
+For any queries or collaboration opportunities, feel free to reach out.
