@@ -17,6 +17,7 @@ A healthcare-based innovation designed to enhance blood circulation in the human
 To present my patented innovations in a structured format
 To provide insights into the design and working of each project
 To serve as a reference for future development and research
+
 📁 Contents
 Project descriptions
 Supporting documents
