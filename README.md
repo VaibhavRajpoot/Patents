@@ -6,7 +6,7 @@ This repository contains documentation and details of my patented projects. It h
 ## 🚀 Projects Included
 
 ### 1. SmartBin
-An intelligent waste management system designed to improve waste segregation and disposal efficiency. The system focuses on automation to promote cleaner and smarter environments.
+An intelligent waste management Robot designed to improve waste segregation and disposal efficiency. The system focuses on automation to promote cleaner and smarter environments.
 
 ### 2. Blood Circulatory Massager
 A healthcare innovation aimed at improving blood circulation in the human body. It is designed to enhance patient comfort and support better overall health through mechanical stimulation.
@@ -19,7 +19,4 @@ A healthcare innovation aimed at improving blood circulation in the human body. 
 ## 📁 Contents
 - Project descriptions  
 - Documentation files  
-- Supporting resources (if applicable)  
-
-## 📬 Contact
-For any queries or collaboration opportunities, feel free to reach out.
+- Images
